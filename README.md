@@ -12,11 +12,11 @@ Picture gallery, to-do list base, picture slider, glowing squares, reaction game
 ## View
 
 [day01](https://codepen.io/sultanova6/pen/ExdOWMv) <br>
-![display:block;margin:auto|](./img/gallery.gif) <br>
+![img](./img/gallery.gif) <br>
 <br>
 
 [day02](https://codepen.io/sultanova6/pen/XWxyGYw) <br>
-![display:block;margin:auto|](./img/todo.gif) <br>
+![img](./img/todo.gif) <br>
 <br>
 
 [day03](https://codepen.io/sultanova6/pen/gOBZrqb) <br>
